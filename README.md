@@ -1,16 +1,13 @@
-# pet
 
-A new Flutter project.
+⚠️ This is a small code snippet from a bigger project which is still in development ⚠️
 
-## Getting Started
+# Description
+Paw is a comprehensive app designed to help reunite lost pets with their owners and to serve as a social media platform for pet lovers.
 
-This project is a starting point for a Flutter application.
+# Set up
+After cloning the repository do these steps to set up flutter SDK:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. File->Settings->Language & Framework->Flutter
+2. Choose flutter SDK path: the first time we install flutter, we choose the location where the flutter should be installed. Choose this location.
+3. Click OK and the android studio will refresh
+4. Run
